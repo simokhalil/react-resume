@@ -3,11 +3,11 @@
   "private": true,
   "description": "Khalil EL ISMAILI's resume",
   "version": "1.0.0",
-  "homepage": "https://simokhalil.github.io/react-resume",
+  "homepage": "https://elismaili.fr",
   "author": {
     "name": "Khalil EL ISMAILI",
     "email": "khalil.elismaili@gmail.com",
-    "url": "https://simokhalil.github.io/react-resume"
+    "url": "https://elismaili.fr"
   },
   "repository": {
     "type": "git",

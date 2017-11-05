@@ -20,7 +20,7 @@ const Footer = React.createClass({
                             <li>
                                 This site is developed in React.js by&nbsp;
                                 <a
-                                    href='https://www.elismaili.fr'
+                                    href='https://elismaili.fr'
                                     title='Khalil EL ISMAILI'
                                     target='_blank'
                                     rel='noopener noreferrer'>

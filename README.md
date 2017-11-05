@@ -25,4 +25,4 @@ To bundle for deployment:
 npm run bundle
 ````
 
-You can view the live site at [simokhalil.github.io/react-resume](https://simokhalil.github.io/react-resume)
+You can view the live site at [elismaili.fr](https://elismaili.fr)
