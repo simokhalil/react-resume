@@ -17,9 +17,7 @@ function getNavigation() {
         about: 'A propos de moi',
         work: 'Expérience',
         education: 'Formation',
-        skill: 'Compétences',
-        portfolio: 'Portfolio',
-        testimonials: 'Références'
+        skill: 'Compétences'
     };
 }
 
