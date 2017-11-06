@@ -37,25 +37,25 @@ const About = React.createClass({
                                     <br/>
                                     <span>{this.props.content.location.countryCode}</span>
                                     <br/>
-                                    <a href={`skype:${this.props.content.phone}`}>
+                                    {/*<a href={`skype:${this.props.content.phone}`}>
                                         <span>{this.props.content.phone}</span>
-                                    </a>
+                                    </a>*/}
                                     <br/>
                                     <a href={`mailto:${this.props.content.email}`}>
                                         <span>{this.props.content.email}</span>
                                     </a>
                                 </p>
                             </div>
-                            {/*
+                            
                             <div className='columns download'>
                                 <p>
-                                    <a href='#' className='button'>
+                                    <a href={this.props.content.resumeUrl} download className='button'>
                                         <i className='fa fa-download'></i>
-                                        Download Resume
+                                        Télécharger mon CV
                                     </a>
                                 </p>
                             </div>
-                            */}
+                            
                         </div>
                     </div>
                 </div>

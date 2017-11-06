@@ -60,5 +60,6 @@ jspm_packages
 # ------------------------------------------------------------------------------
 public/images/portfolio
 resume.json
+*.pdf
 bundle.js
 bundle.js.map
